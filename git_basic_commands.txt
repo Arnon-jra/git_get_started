@@ -1,0 +1,9 @@
+
+git init
+git status
+git add -all //go to staged area
+git diff
+git diff --staged (staged == cached)
+
+git commit -m "Story 182: Fix benchmarks for speed"
+

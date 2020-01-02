@@ -7,3 +7,4 @@ git diff --staged (staged == cached)
 
 git commit -m "Story 182: Fix benchmarks for speed"
 
+git log //to see commitments
